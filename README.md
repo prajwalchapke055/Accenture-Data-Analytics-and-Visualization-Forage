@@ -96,7 +96,7 @@ Recording the video may require a few attempts until you’re happy with it, but
 While the recording functionality in this task won't allow you to share your slides as you speak, it will help you learn how to communicate and use eye contact when presenting.
 Great work on your presentation. 
 
-CHECK OUT THE SIMULATION HERE : [Job Simulation Link](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb)
+## CHECK OUT THE SIMULATION HERE : [Job Simulation Link](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb)
 
-CERTIFICATE OF COMPLETION : 
+## CERTIFICATE OF COMPLETION : 
 ![Accenture North America_Lyj3HtEmzaQJwsQM6_1711009434422_completion_certificate_page-0001](https://github.com/prajwalchapke055/Accenture-Data-Analytics-and-Visualization-Forage/assets/122814333/ba1b941a-ec4f-4ac9-b767-11f010a33fad)
